@@ -1,0 +1,2 @@
+This file made in f4 
+Random data: 12345
